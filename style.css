@@ -1,0 +1,21 @@
+header
+{
+    background-color: black;
+    padding-top: 20px;
+    padding-right: 80px;
+    padding-bottom: 20px;
+    padding-left: 80px;
+}
+html
+{
+    background-color:  lightgray;
+}
+
+section
+{
+    background-color: white;
+    width: 550px;
+    height: 260px;
+    padding: 0px;
+    margin: 60px;
+}
